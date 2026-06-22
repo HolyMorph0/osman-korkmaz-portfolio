@@ -29,7 +29,7 @@ A JavaFX and MySQL based desktop document management system prototype with:
 Repository:
 
 ```text
-https://github.com/osmannkorkmaz06/korkmaz-e-belge-yonetim-sistemi
+https://github.com/HolyMorph0/korkmaz-e-belge-yonetim-sistemi
 ```
 
 ## How to Open Locally
